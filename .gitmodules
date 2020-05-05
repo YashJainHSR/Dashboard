@@ -1,0 +1,6 @@
+[submodule "dashboard-nodejs-api"]
+	path = dashboard-nodejs-api
+	url = https://github.com/YashJainHSR/Dasboard-Node.js-APIs
+[submodule "dashboard-react-ui"]
+	path = dashboard-react-ui
+	url = https://github.com/YashJainHSR/Dashboard-React.js-UI
