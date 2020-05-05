@@ -30,7 +30,7 @@ Agile Dashboard is a Project Management Tool for managing multiple scrum-based p
 ## Technology Stack Used:
     - React (v16.13.1)
 	- Node.js (v12.16.3)
-	- mongoDB Atlas
+	- MongoDB Atlas
 	- Amazon Web Services
 
 <img src="architecture.png" alt="Architecture" />
