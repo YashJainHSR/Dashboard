@@ -1,6 +1,7 @@
 # Dashboard
 <img src="favicon.ico" width="150" height="100" alt="Logo" />
 https://d14dwfjg7e39u9.cloudfront.net
+https://scrumdashboard.z13.web.core.windows.net
 
 ## Problem Statement: 
 For most of the Software Development teams monitoring and tracking of the project progress is a major part of managing the project efficiently. It is vital for the Software Product Manager and Owner to manage the project by overseeing the status and progress of the development
